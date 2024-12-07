@@ -1,5 +1,5 @@
 # Today
 It is a new repository.
 <br>
-In this repository, I'll use C,python and basic html tags.
+In this repository, I will use C,python and basic html tags.
 
